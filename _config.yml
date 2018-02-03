@@ -24,8 +24,8 @@ description: My page for CSCI 376
 # List of links in the navigation bar
 navbar-links:
   Assignment 1: 
-    - "gooddesign"
-    - "baddesign"
+    - Good Design: "gooddesign"
+    - Bad Design: "baddesign"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
