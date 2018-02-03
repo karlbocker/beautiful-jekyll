@@ -23,7 +23,9 @@ description: My page for CSCI 376
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  Assignment 1: 
+    - "gooddesign"
+    - "baddesign"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
