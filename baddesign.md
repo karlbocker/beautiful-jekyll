@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bad Design
-subtitle: This is my example of bad design at Williams
+subtitle: Williams Dining Menu Website.
 ---
 
 As an example of bad design on the Williams campus I have chosen the dining services' menu website. 
