@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Good Design
-subtitle: This is my example of good design at Williams. 
+subtitle: Route 2 Crosswalks.
 ---
 
 My example of good design at Williams are the crosswalks on Route 2. These crosswalks are an integral part of the campus as they serve as the only ways for students and staff to cross between the two major halves of campus. Because of their importance these crosswalks have been modified from regular crosswalks. 
