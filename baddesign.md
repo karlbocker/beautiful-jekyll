@@ -18,3 +18,9 @@ After selecting a dining hall you are brought to this page. Now the issues that 
 ![Third Page](/img/BadDesign3.png)
 
 After selecting the daily menu option you are still not brought to the menu, but rather to another page where you can choose which date you are interested in looking at. This further accentuates the number of pages you have to click through to get to the menu itself. There are however further issues with this page. Firstly, the meals are not chronologically ordered for all days (see Sunday, where Brunch follows Dinner), this seems quite nonsensical. Secondly, the lack of spacing between the options makes for an unappealing aesthetic in my opinion. 
+
+![Fourth Page](/img/BadDesign4.png)
+
+After clicking through all of these pages you finally reach the menu itself. However, the menu is not without faults of its own. The ordering of the items seems random in that it does not start with the main courses but rather with the fruit. The menu is also quite cluttered due to the small font and many icons. I understand that the icons are necessary to communicate allergens but I think this could be better achieved by revealing the icons when holding your pointer over the menu item. 
+
+Overall I think the Williams Nutrition is poorly designed for a few reasons. Firstly, it is not immediately clear how to access the menu at first glance. Secondly, in order to reach the menu you need to click through at least 3 pages - this seems excessive. Finally, the pages that you have to click through do not present options in a logical fashion, making navigation even more difficult and time consuming. 
