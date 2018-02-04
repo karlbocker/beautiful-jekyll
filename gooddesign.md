@@ -12,6 +12,6 @@ There are two features that I think makes this crosswalk design 'good'. Firstly,
 
 Furthermore, by using more white paint than a normal crosswalk the Route 2 crosswalks will be more visible in the dark than other crosswalk another important feature since they are used heavily during all hours of the day and Route 2 can be quite poorly lit. The design of these crosswalks therefore takes into account when the crosswalks are being used.
 
-In *Learning to See* we read about how "good design is aesthetic". I would not go so far as to argue that these crosswalks are beautiful, but I would nonetheless argue that they are well designed. I think this argument lies largely in that they crosswalks *work* well even though they may not be aesthetically *beautiful*. 
+In *Learning to See* we read about how "good design is aesthetic". I would not go so far as to argue that these crosswalks are beautiful, but I would nonetheless argue that they are well designed. I think this argument lies largely in that the crosswalks *work* well even though they may not be aesthetically *beautiful*. 
 
 To conclude I think it can be said that the Route 2 crosswalks are of good design as they are highly functional and boast features not typically integrated into sidewalks that vastly improves their usability. 
