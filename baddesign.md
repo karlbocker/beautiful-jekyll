@@ -4,6 +4,17 @@ title: Bad Design
 subtitle: This is my choice for bad design at Williams
 ---
 
-Hello, please see the images below for bad design. 
+As an example of bad design on the Williams campus I have chosen the dining services' menu website. 
+The first image below is the nutrition start page. 
 
 ![Nutrition Start Page](/img/BadDesign1.png)
+
+While this page in and of itself is not terribly designed it is not immediately clear where one is supposed to press in order to access menus. However, after looking around the page and reading the introduction it is clear that you have to select a dining hall in order to see the menus. 
+
+![Second Page](/img/BadDesign2.png)
+
+After selecting a dining hall you are brought to this page. Now the issues that I have with this website start to become apparent. The ordering of the options on this page are not logically ordered in any way, they are not alphabetical and not in an order which you would expect (daily menu first, not beverages). A second issue, which will become increasingly apparent is the number of menus one has to click through to get from the start page to a menu (this is particularly apparent when you want to try to compare menus from different dining halls). 
+
+![Third Page](/img/BadDesign3.png)
+
+After selecting the daily menu option you are still not brought to the menu, but rather to another page where you can choose which date you are interested in looking at. This further accentuates the number of pages you have to click through to get to the menu itself. There are however further issues with this page. Firstly, the meals are not chronologically ordered for all days (see Sunday, where Brunch follows Dinner), this seems quite nonsensical. Secondly, the lack of spacing between the options makes for an unappealing aesthetic in my opinion. 
