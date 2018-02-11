@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Individual Project Proposal - World of Knowledge
-subtitle: Discovering Information in the Wild!
+title: World of Knowledge
+subtitle: My individual project proposal
 ---
 
 **Introduction**
