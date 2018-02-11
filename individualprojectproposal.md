@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Individual Project Proposal
+title: Individual Project Proposal - World of Knowledge
 subtitle: Discovering Information in the Wild!
 ---
 
