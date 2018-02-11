@@ -12,7 +12,7 @@ This class is focused on resolving issues related to “Learning in the Wild”,
 
 In the summer of 2016 Pokemon Go took over the world, it was the first truly successful location based game. For an example of what Pokemon Go looks like, see figure 1 below. With this project I am hoping to bring that concept to the field of education. The concept is simple, players download an application to their smartphone and while running this application users will see their location on a map and as they walk around the world they can stumble upon information. When a user stumbles upon a piece of information he or she can choose to either read the information (one paragraph or so) or listen to a narrator read it out to them. The user will then be forced to take a photo of the location where the information was found, this will help develop a specific memory related to the information that they discovered.
 
-The information users can discover will however not be tied to the location itself (this is to ensure that people can enjoy walking around the same area multiple times). One possible future feature however is to allow fixed information in certain locations (such as popular tourist spots). 
+The information users can discover will however not be tied to the location itself (this is to ensure that people can enjoy walking around the same area multiple times). One possible future feature however is to allow fixed information in certain locations (such as popular tourist spots) or to allow teachers or other educators to develop specific 'learning-trails' that their students can follow. 
 
 **Quiz Houses**
 
