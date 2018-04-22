@@ -23,6 +23,7 @@ description: My page for CSCI 376
 
 # List of links in the navigation bar
 navbar-links:
+  Research Paper Report: "researchpaperreport"
   Individual Project Proposal: "individualprojectproposal"
   Assignment 1: 
     - Good Design: "gooddesign"
