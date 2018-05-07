@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Design Manifesto
-subtitle: Design Manifesto: Karl Böcker
+subtitle: Design Manifesto Karl Böcker
 ---
 
 During the course of this semester I have developed a myriad of skills in various areas of design. What has been particularly powerful about these lessons is that I have developed not only relevant design techniques, such as how to create a good interface or what to avoid when developing for certain types of users, but how to think about design in a more theoretical sense. I have developed an understanding for how to consider design as a process and the flexibility which is inherently required to make that a successful process. I have also learnt how to separate good design from bad design and how to critique it. More precisely, the extensive focus on peer reviewing work done in the class has allowed me to improve my ability to critically look at pieces of design and review what they do effectively and what could be done to ensure that they work better. In this design manifesto I will be discussing five specific areas in which my understanding for how to design has changed this semester. I will begin by talking about ethics and my understanding for why ethical considerations are critical when designing products that are to be used by people. Following that I will discuss how accessibility is an important factor in ensuring a product is available to many people. After discussing the importance of ethics and accessibility I will be looking more closely at the design efforts my group and I have undertaken this semester, such as how we utilized iterative prototyping and tasks to figure out what the users should use our product for. 
